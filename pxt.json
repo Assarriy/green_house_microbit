@@ -1,5 +1,5 @@
 {
-    "name": "green_house_micro:bit",
+    "name": "green_house:bit",
     "description": "",
     "dependencies": {
         "core": "*",
